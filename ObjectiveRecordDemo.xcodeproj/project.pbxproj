@@ -7,6 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A1BD7EE1871CD6D000AE408 /* ORSelect.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7ED1871CD6D000AE408 /* ORSelect.m */; };
+		4A1BD7EF1871CD6D000AE408 /* ORSelect.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7ED1871CD6D000AE408 /* ORSelect.m */; };
+		4A1BD7F21871CE13000AE408 /* ORModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7F11871CE13000AE408 /* ORModel.m */; };
+		4A1BD7F31871CE13000AE408 /* ORModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7F11871CE13000AE408 /* ORModel.m */; };
+		4A1BD7F61871D006000AE408 /* ORFrom.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7F51871D006000AE408 /* ORFrom.m */; };
+		4A1BD7F71871D006000AE408 /* ORFrom.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7F51871D006000AE408 /* ORFrom.m */; };
+		4A1BD7FA1871D2B9000AE408 /* ORJoin.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7F91871D2B9000AE408 /* ORJoin.m */; };
+		4A1BD7FB1871D2B9000AE408 /* ORJoin.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A1BD7F91871D2B9000AE408 /* ORJoin.m */; };
+		4A50E64F1871E23800B54032 /* ORModelInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E64E1871E23800B54032 /* ORModelInfo.m */; };
+		4A50E6501871E23800B54032 /* ORModelInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E64E1871E23800B54032 /* ORModelInfo.m */; };
+		4A50E6531871E26800B54032 /* ORCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6521871E26800B54032 /* ORCache.m */; };
+		4A50E6541871E26800B54032 /* ORCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6521871E26800B54032 /* ORCache.m */; };
+		4A50E6571871E3EA00B54032 /* ORTableInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6561871E3EA00B54032 /* ORTableInfo.m */; };
+		4A50E6581871E3EA00B54032 /* ORTableInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6561871E3EA00B54032 /* ORTableInfo.m */; };
+		4A50E65F1872E5ED00B54032 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E65E1872E5ED00B54032 /* Person.m */; };
+		4A50E6601872E5ED00B54032 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E65E1872E5ED00B54032 /* Person.m */; };
+		4A50E6631872E91500B54032 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6621872E91500B54032 /* Book.m */; };
+		4A50E6641872E91500B54032 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6621872E91500B54032 /* Book.m */; };
+		4A50E6671872F8E800B54032 /* ORUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6661872F8E800B54032 /* ORUpdate.m */; };
+		4A50E6681872F8E800B54032 /* ORUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6661872F8E800B54032 /* ORUpdate.m */; };
+		4A50E66B1872F94400B54032 /* ORSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E66A1872F94400B54032 /* ORSet.m */; };
+		4A50E66C1872F94400B54032 /* ORSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E66A1872F94400B54032 /* ORSet.m */; };
+		4A50E66F1873007C00B54032 /* ORDelete.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E66E1873007C00B54032 /* ORDelete.m */; };
+		4A50E6701873007C00B54032 /* ORDelete.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E66E1873007C00B54032 /* ORDelete.m */; };
+		4A50E6721873253E00B54032 /* FromTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6711873253E00B54032 /* FromTests.m */; };
+		4A50E67418732B4B00B54032 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A50E67318732B4B00B54032 /* XCTest.framework */; };
+		4A50E67618732E8500B54032 /* aaaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E67518732E8500B54032 /* aaaTests.m */; };
+		4A50E6791873CDD400B54032 /* ORSQLiteUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6781873CDD400B54032 /* ORSQLiteUtils.m */; };
+		4A50E67A1873CDD400B54032 /* ORSQLiteUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6781873CDD400B54032 /* ORSQLiteUtils.m */; };
+		4A50E6811875161D00B54032 /* ORInsert.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6801875161D00B54032 /* ORInsert.m */; };
+		4A50E6821875161D00B54032 /* ORInsert.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6801875161D00B54032 /* ORInsert.m */; };
+		4A50E6851875165200B54032 /* ORInto.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6841875165200B54032 /* ORInto.m */; };
+		4A50E6861875165200B54032 /* ORInto.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6841875165200B54032 /* ORInto.m */; };
+		4A50E68C1875A8BC00B54032 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A50E68B1875A8BC00B54032 /* Storyboard.storyboard */; };
+		4A50E68D1875A8BC00B54032 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A50E68B1875A8BC00B54032 /* Storyboard.storyboard */; };
+		4A50E6901875ADE400B54032 /* InteractiveSQLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E68F1875ADE400B54032 /* InteractiveSQLViewController.m */; };
+		4A50E6911875ADE400B54032 /* InteractiveSQLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E68F1875ADE400B54032 /* InteractiveSQLViewController.m */; };
+		4A50E6941875E5FF00B54032 /* TextInputToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6931875E5FF00B54032 /* TextInputToolbar.m */; };
+		4A50E6951875E5FF00B54032 /* TextInputToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E6931875E5FF00B54032 /* TextInputToolbar.m */; };
+		4A50E6971876C67200B54032 /* HeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A50E6961876C67200B54032 /* HeaderView.xib */; };
+		4A50E6981876C67200B54032 /* HeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A50E6961876C67200B54032 /* HeaderView.xib */; };
+		4A50E69B1876C72500B54032 /* HeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E69A1876C72500B54032 /* HeaderView.m */; };
+		4A50E69C1876C72500B54032 /* HeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A50E69A1876C72500B54032 /* HeaderView.m */; };
 		4A698A3A17BBEBE8007ED7D4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A698A3917BBEBE8007ED7D4 /* UIKit.framework */; };
 		4A698A3C17BBEBE8007ED7D4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A698A3B17BBEBE8007ED7D4 /* Foundation.framework */; };
 		4A698A3E17BBEBE8007ED7D4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A698A3D17BBEBE8007ED7D4 /* CoreGraphics.framework */; };
@@ -16,11 +59,18 @@
 		4A698A4C17BBEBE9007ED7D4 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A698A4B17BBEBE9007ED7D4 /* Default.png */; };
 		4A698A4E17BBEBE9007ED7D4 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A698A4D17BBEBE9007ED7D4 /* Default@2x.png */; };
 		4A698A5017BBEBE9007ED7D4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A698A4F17BBEBE9007ED7D4 /* Default-568h@2x.png */; };
-		4A698A5817BBEBE9007ED7D4 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A698A5717BBEBE9007ED7D4 /* SenTestingKit.framework */; };
 		4A698A5917BBEBE9007ED7D4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A698A3917BBEBE8007ED7D4 /* UIKit.framework */; };
 		4A698A5A17BBEBE9007ED7D4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A698A3B17BBEBE8007ED7D4 /* Foundation.framework */; };
 		4A698A6217BBEBE9007ED7D4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A698A6017BBEBE9007ED7D4 /* InfoPlist.strings */; };
 		4A698A6517BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A698A6417BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.m */; };
+		4A698A7E17BF39BC007ED7D4 /* ORProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A698A7D17BF39BC007ED7D4 /* ORProperty.m */; };
+		4A698A7F17BF39BC007ED7D4 /* ORProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A698A7D17BF39BC007ED7D4 /* ORProperty.m */; };
+		4AA8320F17C255A300B9CADB /* ObjectiveRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AA8320E17C255A300B9CADB /* ObjectiveRecord.m */; };
+		4AA8321017C255A300B9CADB /* ObjectiveRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AA8320E17C255A300B9CADB /* ObjectiveRecord.m */; };
+		4AA8321317C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AA8321217C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m */; };
+		4AA8321417C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AA8321217C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m */; };
+		99A0301426E14C4AA5BA2CC4 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A00060623B44F52806AEBB5 /* libPods.a */; };
+		D7A32DFB90884FCDB365A1E6 /* libPods-ObjectiveRecordDemoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D4A7C73D512044CB8E616103 /* libPods-ObjectiveRecordDemoTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +84,51 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A00060623B44F52806AEBB5 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A1BD7EB1871CD57000AE408 /* ORSqlable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ORSqlable.h; sourceTree = "<group>"; };
+		4A1BD7EC1871CD6D000AE408 /* ORSelect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORSelect.h; sourceTree = "<group>"; };
+		4A1BD7ED1871CD6D000AE408 /* ORSelect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORSelect.m; sourceTree = "<group>"; };
+		4A1BD7F01871CE13000AE408 /* ORModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORModel.h; sourceTree = "<group>"; };
+		4A1BD7F11871CE13000AE408 /* ORModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORModel.m; sourceTree = "<group>"; };
+		4A1BD7F41871D006000AE408 /* ORFrom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORFrom.h; sourceTree = "<group>"; };
+		4A1BD7F51871D006000AE408 /* ORFrom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORFrom.m; sourceTree = "<group>"; };
+		4A1BD7F81871D2B9000AE408 /* ORJoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORJoin.h; sourceTree = "<group>"; };
+		4A1BD7F91871D2B9000AE408 /* ORJoin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORJoin.m; sourceTree = "<group>"; };
+		4A50E64D1871E23800B54032 /* ORModelInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORModelInfo.h; sourceTree = "<group>"; };
+		4A50E64E1871E23800B54032 /* ORModelInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORModelInfo.m; sourceTree = "<group>"; };
+		4A50E6511871E26800B54032 /* ORCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORCache.h; sourceTree = "<group>"; };
+		4A50E6521871E26800B54032 /* ORCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORCache.m; sourceTree = "<group>"; };
+		4A50E6551871E3EA00B54032 /* ORTableInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORTableInfo.h; sourceTree = "<group>"; };
+		4A50E6561871E3EA00B54032 /* ORTableInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORTableInfo.m; sourceTree = "<group>"; };
+		4A50E65D1872E5ED00B54032 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Person.h; path = ObjectiveRecordDemo/Person.h; sourceTree = SOURCE_ROOT; };
+		4A50E65E1872E5ED00B54032 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Person.m; path = ObjectiveRecordDemo/Person.m; sourceTree = SOURCE_ROOT; };
+		4A50E6611872E91500B54032 /* Book.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Book.h; path = ObjectiveRecordDemo/Book.h; sourceTree = SOURCE_ROOT; };
+		4A50E6621872E91500B54032 /* Book.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Book.m; path = ObjectiveRecordDemo/Book.m; sourceTree = SOURCE_ROOT; };
+		4A50E6651872F8E800B54032 /* ORUpdate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORUpdate.h; sourceTree = "<group>"; };
+		4A50E6661872F8E800B54032 /* ORUpdate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORUpdate.m; sourceTree = "<group>"; };
+		4A50E6691872F94400B54032 /* ORSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORSet.h; sourceTree = "<group>"; };
+		4A50E66A1872F94400B54032 /* ORSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORSet.m; sourceTree = "<group>"; };
+		4A50E66D1873007C00B54032 /* ORDelete.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORDelete.h; sourceTree = "<group>"; };
+		4A50E66E1873007C00B54032 /* ORDelete.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORDelete.m; sourceTree = "<group>"; };
+		4A50E6711873253E00B54032 /* FromTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FromTests.m; sourceTree = "<group>"; };
+		4A50E67318732B4B00B54032 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		4A50E67518732E8500B54032 /* aaaTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaaTests.m; sourceTree = "<group>"; };
+		4A50E6771873CDD400B54032 /* ORSQLiteUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORSQLiteUtils.h; sourceTree = "<group>"; };
+		4A50E6781873CDD400B54032 /* ORSQLiteUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORSQLiteUtils.m; sourceTree = "<group>"; };
+		4A50E67B18746A5700B54032 /* ORFrom+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ORFrom+Private.h"; sourceTree = "<group>"; };
+		4A50E67F1875161D00B54032 /* ORInsert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORInsert.h; sourceTree = "<group>"; };
+		4A50E6801875161D00B54032 /* ORInsert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORInsert.m; sourceTree = "<group>"; };
+		4A50E6831875165200B54032 /* ORInto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORInto.h; sourceTree = "<group>"; };
+		4A50E6841875165200B54032 /* ORInto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORInto.m; sourceTree = "<group>"; };
+		4A50E6871875886F00B54032 /* ObjectiveRecord+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ObjectiveRecord+Private.h"; sourceTree = "<group>"; };
+		4A50E68B1875A8BC00B54032 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		4A50E68E1875ADE400B54032 /* InteractiveSQLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InteractiveSQLViewController.h; sourceTree = "<group>"; };
+		4A50E68F1875ADE400B54032 /* InteractiveSQLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InteractiveSQLViewController.m; sourceTree = "<group>"; };
+		4A50E6921875E5FF00B54032 /* TextInputToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextInputToolbar.h; sourceTree = "<group>"; };
+		4A50E6931875E5FF00B54032 /* TextInputToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextInputToolbar.m; sourceTree = "<group>"; };
+		4A50E6961876C67200B54032 /* HeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HeaderView.xib; sourceTree = "<group>"; };
+		4A50E6991876C72500B54032 /* HeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderView.h; sourceTree = "<group>"; };
+		4A50E69A1876C72500B54032 /* HeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeaderView.m; sourceTree = "<group>"; };
 		4A698A3617BBEBE8007ED7D4 /* ObjectiveRecordDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ObjectiveRecordDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A698A3917BBEBE8007ED7D4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4A698A3B17BBEBE8007ED7D4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -48,11 +143,18 @@
 		4A698A4D17BBEBE9007ED7D4 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		4A698A4F17BBEBE9007ED7D4 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		4A698A5617BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ObjectiveRecordDemoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A698A5717BBEBE9007ED7D4 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		4A698A5F17BBEBE9007ED7D4 /* ObjectiveRecordDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ObjectiveRecordDemoTests-Info.plist"; sourceTree = "<group>"; };
 		4A698A6117BBEBE9007ED7D4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4A698A6317BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ObjectiveRecordDemoTests.h; sourceTree = "<group>"; };
 		4A698A6417BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ObjectiveRecordDemoTests.m; sourceTree = "<group>"; };
+		4A698A7C17BF39BC007ED7D4 /* ORProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ORProperty.h; sourceTree = "<group>"; };
+		4A698A7D17BF39BC007ED7D4 /* ORProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ORProperty.m; sourceTree = "<group>"; };
+		4AA8320D17C255A300B9CADB /* ObjectiveRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectiveRecord.h; sourceTree = "<group>"; };
+		4AA8320E17C255A300B9CADB /* ObjectiveRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectiveRecord.m; sourceTree = "<group>"; };
+		4AA8321117C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FMDatabaseQueue+ObjectiveRecord.h"; sourceTree = "<group>"; };
+		4AA8321217C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "FMDatabaseQueue+ObjectiveRecord.m"; sourceTree = "<group>"; };
+		683F3882E7EC43499063D311 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+		6BD0E7086B0C4634AD27A852 /* Pods-ObjectiveRecordDemoTests.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ObjectiveRecordDemoTests.xcconfig"; path = "Pods/Pods-ObjectiveRecordDemoTests.xcconfig"; sourceTree = SOURCE_ROOT; };
+		D4A7C73D512044CB8E616103 /* libPods-ObjectiveRecordDemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ObjectiveRecordDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +165,7 @@
 				4A698A3A17BBEBE8007ED7D4 /* UIKit.framework in Frameworks */,
 				4A698A3C17BBEBE8007ED7D4 /* Foundation.framework in Frameworks */,
 				4A698A3E17BBEBE8007ED7D4 /* CoreGraphics.framework in Frameworks */,
+				99A0301426E14C4AA5BA2CC4 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,22 +173,51 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A698A5817BBEBE9007ED7D4 /* SenTestingKit.framework in Frameworks */,
+				4A50E67418732B4B00B54032 /* XCTest.framework in Frameworks */,
 				4A698A5917BBEBE9007ED7D4 /* UIKit.framework in Frameworks */,
 				4A698A5A17BBEBE9007ED7D4 /* Foundation.framework in Frameworks */,
+				D7A32DFB90884FCDB365A1E6 /* libPods-ObjectiveRecordDemoTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4A1BD7EA1871CD2A000AE408 /* query */ = {
+			isa = PBXGroup;
+			children = (
+				4A1BD7EB1871CD57000AE408 /* ORSqlable.h */,
+				4A1BD7EC1871CD6D000AE408 /* ORSelect.h */,
+				4A1BD7ED1871CD6D000AE408 /* ORSelect.m */,
+				4A1BD7F41871D006000AE408 /* ORFrom.h */,
+				4A1BD7F51871D006000AE408 /* ORFrom.m */,
+				4A1BD7F81871D2B9000AE408 /* ORJoin.h */,
+				4A1BD7F91871D2B9000AE408 /* ORJoin.m */,
+				4A50E6651872F8E800B54032 /* ORUpdate.h */,
+				4A50E6661872F8E800B54032 /* ORUpdate.m */,
+				4A50E6691872F94400B54032 /* ORSet.h */,
+				4A50E66A1872F94400B54032 /* ORSet.m */,
+				4A50E66D1873007C00B54032 /* ORDelete.h */,
+				4A50E66E1873007C00B54032 /* ORDelete.m */,
+				4A50E67B18746A5700B54032 /* ORFrom+Private.h */,
+				4A50E67F1875161D00B54032 /* ORInsert.h */,
+				4A50E6801875161D00B54032 /* ORInsert.m */,
+				4A50E6831875165200B54032 /* ORInto.h */,
+				4A50E6841875165200B54032 /* ORInto.m */,
+			);
+			path = query;
+			sourceTree = "<group>";
+		};
 		4A698A2D17BBEBE8007ED7D4 = {
 			isa = PBXGroup;
 			children = (
+				4A698A6E17BBEBFC007ED7D4 /* ObjectiveRecord */,
 				4A698A3F17BBEBE8007ED7D4 /* ObjectiveRecordDemo */,
 				4A698A5D17BBEBE9007ED7D4 /* ObjectiveRecordDemoTests */,
 				4A698A3817BBEBE8007ED7D4 /* Frameworks */,
 				4A698A3717BBEBE8007ED7D4 /* Products */,
+				683F3882E7EC43499063D311 /* Pods.xcconfig */,
+				6BD0E7086B0C4634AD27A852 /* Pods-ObjectiveRecordDemoTests.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,10 +233,12 @@
 		4A698A3817BBEBE8007ED7D4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4A50E67318732B4B00B54032 /* XCTest.framework */,
 				4A698A3917BBEBE8007ED7D4 /* UIKit.framework */,
 				4A698A3B17BBEBE8007ED7D4 /* Foundation.framework */,
 				4A698A3D17BBEBE8007ED7D4 /* CoreGraphics.framework */,
-				4A698A5717BBEBE9007ED7D4 /* SenTestingKit.framework */,
+				2A00060623B44F52806AEBB5 /* libPods.a */,
+				D4A7C73D512044CB8E616103 /* libPods-ObjectiveRecordDemoTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,9 +246,18 @@
 		4A698A3F17BBEBE8007ED7D4 /* ObjectiveRecordDemo */ = {
 			isa = PBXGroup;
 			children = (
+				4A698A7717BD3403007ED7D4 /* Models */,
 				4A698A4817BBEBE8007ED7D4 /* ORAppDelegate.h */,
 				4A698A4917BBEBE8007ED7D4 /* ORAppDelegate.m */,
 				4A698A4017BBEBE8007ED7D4 /* Supporting Files */,
+				4A50E68B1875A8BC00B54032 /* Storyboard.storyboard */,
+				4A50E68E1875ADE400B54032 /* InteractiveSQLViewController.h */,
+				4A50E68F1875ADE400B54032 /* InteractiveSQLViewController.m */,
+				4A50E6921875E5FF00B54032 /* TextInputToolbar.h */,
+				4A50E6931875E5FF00B54032 /* TextInputToolbar.m */,
+				4A50E6961876C67200B54032 /* HeaderView.xib */,
+				4A50E6991876C72500B54032 /* HeaderView.h */,
+				4A50E69A1876C72500B54032 /* HeaderView.m */,
 			);
 			path = ObjectiveRecordDemo;
 			sourceTree = "<group>";
@@ -136,9 +279,10 @@
 		4A698A5D17BBEBE9007ED7D4 /* ObjectiveRecordDemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				4A698A6317BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.h */,
 				4A698A6417BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.m */,
 				4A698A5E17BBEBE9007ED7D4 /* Supporting Files */,
+				4A50E6711873253E00B54032 /* FromTests.m */,
+				4A50E67518732E8500B54032 /* aaaTests.m */,
 			);
 			path = ObjectiveRecordDemoTests;
 			sourceTree = "<group>";
@@ -152,6 +296,42 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		4A698A6E17BBEBFC007ED7D4 /* ObjectiveRecord */ = {
+			isa = PBXGroup;
+			children = (
+				4A1BD7EA1871CD2A000AE408 /* query */,
+				4A698A7C17BF39BC007ED7D4 /* ORProperty.h */,
+				4A698A7D17BF39BC007ED7D4 /* ORProperty.m */,
+				4AA8320D17C255A300B9CADB /* ObjectiveRecord.h */,
+				4AA8320E17C255A300B9CADB /* ObjectiveRecord.m */,
+				4A50E6871875886F00B54032 /* ObjectiveRecord+Private.h */,
+				4AA8321117C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.h */,
+				4AA8321217C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m */,
+				4A1BD7F01871CE13000AE408 /* ORModel.h */,
+				4A1BD7F11871CE13000AE408 /* ORModel.m */,
+				4A50E64D1871E23800B54032 /* ORModelInfo.h */,
+				4A50E64E1871E23800B54032 /* ORModelInfo.m */,
+				4A50E6551871E3EA00B54032 /* ORTableInfo.h */,
+				4A50E6561871E3EA00B54032 /* ORTableInfo.m */,
+				4A50E6511871E26800B54032 /* ORCache.h */,
+				4A50E6521871E26800B54032 /* ORCache.m */,
+				4A50E6771873CDD400B54032 /* ORSQLiteUtils.h */,
+				4A50E6781873CDD400B54032 /* ORSQLiteUtils.m */,
+			);
+			path = ObjectiveRecord;
+			sourceTree = "<group>";
+		};
+		4A698A7717BD3403007ED7D4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4A50E65D1872E5ED00B54032 /* Person.h */,
+				4A50E65E1872E5ED00B54032 /* Person.m */,
+				4A50E6611872E91500B54032 /* Book.h */,
+				4A50E6621872E91500B54032 /* Book.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -159,9 +339,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A698A6817BBEBE9007ED7D4 /* Build configuration list for PBXNativeTarget "ObjectiveRecordDemo" */;
 			buildPhases = (
+				1CFD3A9955A64528BFA97154 /* Check Pods Manifest.lock */,
 				4A698A3217BBEBE8007ED7D4 /* Sources */,
 				4A698A3317BBEBE8007ED7D4 /* Frameworks */,
 				4A698A3417BBEBE8007ED7D4 /* Resources */,
+				ECE1B7ADFFB04DFDA67EA515 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -176,10 +358,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A698A6B17BBEBE9007ED7D4 /* Build configuration list for PBXNativeTarget "ObjectiveRecordDemoTests" */;
 			buildPhases = (
+				B2170DABFCAF44C18B8FECF6 /* Check Pods Manifest.lock */,
 				4A698A5117BBEBE9007ED7D4 /* Sources */,
 				4A698A5217BBEBE9007ED7D4 /* Frameworks */,
 				4A698A5317BBEBE9007ED7D4 /* Resources */,
 				4A698A5417BBEBE9007ED7D4 /* ShellScript */,
+				D08560A0384F4A6D9C1EBB05 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -227,7 +411,9 @@
 				4A698A4417BBEBE8007ED7D4 /* InfoPlist.strings in Resources */,
 				4A698A4C17BBEBE9007ED7D4 /* Default.png in Resources */,
 				4A698A4E17BBEBE9007ED7D4 /* Default@2x.png in Resources */,
+				4A50E6971876C67200B54032 /* HeaderView.xib in Resources */,
 				4A698A5017BBEBE9007ED7D4 /* Default-568h@2x.png in Resources */,
+				4A50E68C1875A8BC00B54032 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,13 +421,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A50E6981876C67200B54032 /* HeaderView.xib in Resources */,
 				4A698A6217BBEBE9007ED7D4 /* InfoPlist.strings in Resources */,
+				4A50E68D1875A8BC00B54032 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		1CFD3A9955A64528BFA97154 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
 		4A698A5417BBEBE9007ED7D4 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -255,6 +458,51 @@
 			shellPath = /bin/sh;
 			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
 		};
+		B2170DABFCAF44C18B8FECF6 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D08560A0384F4A6D9C1EBB05 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-ObjectiveRecordDemoTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ECE1B7ADFFB04DFDA67EA515 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -262,8 +510,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A50E6531871E26800B54032 /* ORCache.m in Sources */,
+				4A1BD7FA1871D2B9000AE408 /* ORJoin.m in Sources */,
 				4A698A4617BBEBE8007ED7D4 /* main.m in Sources */,
 				4A698A4A17BBEBE8007ED7D4 /* ORAppDelegate.m in Sources */,
+				4A698A7E17BF39BC007ED7D4 /* ORProperty.m in Sources */,
+				4A1BD7F21871CE13000AE408 /* ORModel.m in Sources */,
+				4A1BD7F61871D006000AE408 /* ORFrom.m in Sources */,
+				4A50E6571871E3EA00B54032 /* ORTableInfo.m in Sources */,
+				4A50E64F1871E23800B54032 /* ORModelInfo.m in Sources */,
+				4A50E65F1872E5ED00B54032 /* Person.m in Sources */,
+				4A50E69B1876C72500B54032 /* HeaderView.m in Sources */,
+				4A50E6851875165200B54032 /* ORInto.m in Sources */,
+				4A50E6811875161D00B54032 /* ORInsert.m in Sources */,
+				4A50E6791873CDD400B54032 /* ORSQLiteUtils.m in Sources */,
+				4A50E6941875E5FF00B54032 /* TextInputToolbar.m in Sources */,
+				4A1BD7EE1871CD6D000AE408 /* ORSelect.m in Sources */,
+				4A50E6671872F8E800B54032 /* ORUpdate.m in Sources */,
+				4AA8320F17C255A300B9CADB /* ObjectiveRecord.m in Sources */,
+				4A50E6631872E91500B54032 /* Book.m in Sources */,
+				4A50E66F1873007C00B54032 /* ORDelete.m in Sources */,
+				4A50E6901875ADE400B54032 /* InteractiveSQLViewController.m in Sources */,
+				4AA8321317C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m in Sources */,
+				4A50E66B1872F94400B54032 /* ORSet.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +540,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A50E6641872E91500B54032 /* Book.m in Sources */,
+				4A50E6681872F8E800B54032 /* ORUpdate.m in Sources */,
 				4A698A6517BBEBE9007ED7D4 /* ObjectiveRecordDemoTests.m in Sources */,
+				4A698A7F17BF39BC007ED7D4 /* ORProperty.m in Sources */,
+				4A50E6581871E3EA00B54032 /* ORTableInfo.m in Sources */,
+				4A50E67618732E8500B54032 /* aaaTests.m in Sources */,
+				4A50E6501871E23800B54032 /* ORModelInfo.m in Sources */,
+				4A50E6821875161D00B54032 /* ORInsert.m in Sources */,
+				4A50E6911875ADE400B54032 /* InteractiveSQLViewController.m in Sources */,
+				4AA8321017C255A300B9CADB /* ObjectiveRecord.m in Sources */,
+				4A1BD7EF1871CD6D000AE408 /* ORSelect.m in Sources */,
+				4A50E6601872E5ED00B54032 /* Person.m in Sources */,
+				4A50E6951875E5FF00B54032 /* TextInputToolbar.m in Sources */,
+				4A50E67A1873CDD400B54032 /* ORSQLiteUtils.m in Sources */,
+				4A50E6701873007C00B54032 /* ORDelete.m in Sources */,
+				4A50E66C1872F94400B54032 /* ORSet.m in Sources */,
+				4A50E6721873253E00B54032 /* FromTests.m in Sources */,
+				4A1BD7FB1871D2B9000AE408 /* ORJoin.m in Sources */,
+				4A1BD7F31871CE13000AE408 /* ORModel.m in Sources */,
+				4A50E69C1876C72500B54032 /* HeaderView.m in Sources */,
+				4A50E6541871E26800B54032 /* ORCache.m in Sources */,
+				4A1BD7F71871D006000AE408 /* ORFrom.m in Sources */,
+				4A50E6861875165200B54032 /* ORInto.m in Sources */,
+				4AA8321417C26CE600B9CADB /* FMDatabaseQueue+ObjectiveRecord.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -330,7 +622,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -354,7 +646,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -363,6 +655,7 @@
 		};
 		4A698A6917BBEBE9007ED7D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 683F3882E7EC43499063D311 /* Pods.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ObjectiveRecordDemo/ObjectiveRecordDemo-Prefix.pch";
@@ -374,6 +667,7 @@
 		};
 		4A698A6A17BBEBE9007ED7D4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 683F3882E7EC43499063D311 /* Pods.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ObjectiveRecordDemo/ObjectiveRecordDemo-Prefix.pch";
@@ -385,11 +679,13 @@
 		};
 		4A698A6C17BBEBE9007ED7D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BD0E7086B0C4634AD27A852 /* Pods-ObjectiveRecordDemoTests.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ObjectiveRecordDemo.app/ObjectiveRecordDemo";
 				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
-					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ObjectiveRecordDemo/ObjectiveRecordDemo-Prefix.pch";
@@ -402,11 +698,13 @@
 		};
 		4A698A6D17BBEBE9007ED7D4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BD0E7086B0C4634AD27A852 /* Pods-ObjectiveRecordDemoTests.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ObjectiveRecordDemo.app/ObjectiveRecordDemo";
 				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
-					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ObjectiveRecordDemo/ObjectiveRecordDemo-Prefix.pch";
@@ -436,6 +734,7 @@
 				4A698A6A17BBEBE9007ED7D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A698A6B17BBEBE9007ED7D4 /* Build configuration list for PBXNativeTarget "ObjectiveRecordDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +743,7 @@
 				4A698A6D17BBEBE9007ED7D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

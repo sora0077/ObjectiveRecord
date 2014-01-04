@@ -8,14 +8,39 @@
 
 #import "ORAppDelegate.h"
 
+#import "ObjectiveRecord.h"
+
+#import "ORSelect.h"
+#import "ORFrom.h"
+#import "ORJoin.h"
+
+
+#import "Person.h"
+#import "Book.h"
+
 @implementation ORAppDelegate
+
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
-    [self.window makeKeyAndVisible];
+    NSString *docsPath = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)[0];
+    NSString *dbPath   = [docsPath stringByAppendingPathComponent:@"test.db"];
+    NSString *path = dbPath;
+
+    [ObjectiveRecord syncDB:path table:^{
+    }];
+
+    NSLog(@"%@", [@[@1, @2.4343434343434344545645667567] componentsJoinedByString:@", "]);
+
+
+    NSLog(@"%@", Select(nil).from([Person class]).leftJoin([Book class]).on(@"Person.bookId = Book.id", nil).where(@"personId = ?", @[@2]).toSql);
+    ;
+
+    NSLog(@"%@", ({
+        ORFrom *from = [[ORFrom alloc] initWithTable:[Person class] query:nil];
+        from.limit(10).toSql;
+    }));
+
     return YES;
 }
 

@@ -6,27 +6,22 @@
 //  Copyright (c) 2013年 林 達也. All rights reserved.
 //
 
-#import "ObjectiveRecordDemoTests.h"
+#import <Kiwi/Kiwi.h>
+#import "Person.h"
 
-@implementation ObjectiveRecordDemoTests
+#import "ORSelect.h"
+#import "ORFrom.h"
 
-- (void)setUp
-{
-    [super setUp];
-    
-    // Set-up code here.
-}
 
-- (void)tearDown
-{
-    // Tear-down code here.
-    
-    [super tearDown];
-}
-
-- (void)testExample
-{
-    STFail(@"Unit tests are not implemented yet in ObjectiveRecordDemoTests");
-}
-
-@end
+//SPEC_BEGIN(SELECT)
+//
+//describe(@"Model", ^{
+//    context(@"when create entity", ^{
+//        it(@"before create model", ^{
+//            ORSelect *select = [[ORSelect alloc] initWithColumns:nil];
+//            select.from([Person class]).where(nil, nil);
+//        });
+//    });
+//});
+//
+//SPEC_END
